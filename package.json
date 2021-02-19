@@ -10,7 +10,7 @@
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
     "express": "^4.17.0",
-    "opn": "^6.0.0",
+    "open": "^7.4.2",
     "square-connect": "2.20190814.0"
   },
   "devDependencies": {
